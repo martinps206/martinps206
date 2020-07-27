@@ -1,3 +1,14 @@
-![](https://cdn.ticbeat.com/src/uploads/2017/11/matemáticas-e-informático-810x540.jpg)
-### Martin Paliza Sanchez
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcScuvMl8ZBWHEYRa-IRDpCxqXlelzhKoConlA&usqp=CAU)
+## Martin Paliza Sanchez
+###Estudiante de la Facultad de Informatica - UNLP
+Conocimientos: 
+   - Matematicas - Metodos Numericos
+   - Python
+   - Java
+   - C
+   - Pascal
+   - HTML
+   - CSS
+   - JavaScript
+   - Git
 
