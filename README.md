@@ -11,4 +11,6 @@
    - CSS
    - JavaScript
    - Git
-
+   - PLSQL
+   - SQL
+   - ADF
