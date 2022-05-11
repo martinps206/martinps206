@@ -14,3 +14,4 @@
    - PLSQL
    - SQL
    - ADF
+   - Angular
