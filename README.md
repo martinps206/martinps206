@@ -1,4 +1,4 @@
-![](https://i.gifer.com/39Cg.gif)
+![](https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
 <a href="https://www.linkedin.com/in/martin-alfonso-paliza-sanchez/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -6,9 +6,8 @@
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 # Martin Paliza Sanchez
-
 ## Desarrollador de software
-   ## Matematico de Metodos Numericos 
+## Matematico de Metodos Numericos 
 
 ### Conocimientos: 
 
