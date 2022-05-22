@@ -1,13 +1,13 @@
-![](https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)
-# Martin Paliza Sanchez <a href="https://www.linkedin.com/in/martin-alfonso-paliza-sanchez/">
+![](https://i.gifer.com/39Cg.gif)
+<a href="https://www.linkedin.com/in/martin-alfonso-paliza-sanchez/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/martinps_cc/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
+# Martin Paliza Sanchez
 
-
-   ## Desarrollador de software
+## Desarrollador de software
    ## Matematico de Metodos Numericos 
 
 ### Conocimientos: 
