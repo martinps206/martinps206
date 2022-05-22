@@ -7,8 +7,8 @@
 </a>
 
 
-# Desarrollador de software
-# Matematico de Metodos Numericos
+   ## Desarrollador de software
+   ## Matematico de Metodos Numericos 
 
 ### Conocimientos: 
 
