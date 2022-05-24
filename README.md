@@ -10,7 +10,7 @@
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-## Desarrollador de software y Matematico de modelos matematicos
+## Desarrollador de software y Modelos matematicos
 
 ### Conocimientos: 
 
