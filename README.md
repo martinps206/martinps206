@@ -1,4 +1,4 @@
-![](https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)
+![](![image](https://user-images.githubusercontent.com/61960086/219989103-3b7c6b6e-caf1-4478-adcb-02de52ffc25d.png))
 
 # Martin Paliza Sanchez
 
@@ -24,11 +24,11 @@
    - Python
    - Java SE/EE
    - C  C++
-   - HTML - CSS
-   - JavaScript
+   - HTML - CSS - JavaScript
    - SQL 
    - PLSQL
    - ADF
    - Angular
    - Git
-   - NodeJS 
+   - NodeJS
+   - React
