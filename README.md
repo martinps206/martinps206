@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/61960086/219989543-863abdc4-cf25-4021-bc7e-e30b92afe1c5.png)
+![](https://user-images.githubusercontent.com/61960086/219991134-6a2fa95f-6545-43ee-b68a-c9a019705dc3.png)
 
 # Martin Paliza Sanchez
 
