@@ -4,8 +4,8 @@
 <h3 align="center">A passionate Java developer and mathmaticals.</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/martin-alfonso-paliza-sanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-alfonso-paliza-sanchez" height="30" width="40" /></a>
-<a href="https://instagram.com/martinps_cc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="martinps_cc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/martin-alfonso-paliza-sanchez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-alfonso-paliza-sanchez" height="30" width="40" /></a>
+<a href="https://www.instagram.com/martinpalizasanchez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="martinps_cc" height="30" width="40" /></a>
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=martinps206&show_icons=true&locale=en&layout=compact" alt="martinps206" /></p>
